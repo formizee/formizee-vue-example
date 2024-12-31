@@ -13,6 +13,12 @@ import Footer from './components/Footer.vue'
 </template>
 
 <style>
+  #app {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
   main {
     width: 100%;
     flex-grow: 1;
