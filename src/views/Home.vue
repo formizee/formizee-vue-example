@@ -1,10 +1,10 @@
 <template>
   <form method="post" action="https://api.formizee.com/v1/f/enp_123456">
-    <label htmlFor="name">
+    <label for="name">
       Name
       <input id="name" autoComplete="name" name="name" />
     </label>
-    <label htmlFor="email">
+    <label for="email">
       Email
       <input id="email" autoComplete="email" name="email" />
     </label>
